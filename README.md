@@ -3,7 +3,7 @@ Trying linear programming: find the best outcome (such as lowest cost) in a mode
 
 ## Projects
 
-I did two small trials.
+I did some small trials.
 
 - I read the book [OptArt](https://www.amazon.com/Opt-Art-Mathematical-Optimization-Visual/dp/0691164061) nearly a year ago.
   It (re)triggered my interest in linear programming, but it required a paid tool.
