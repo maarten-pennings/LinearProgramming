@@ -12,5 +12,7 @@ I did some small trials.
 - That was successful, so a next project was to replicate the [introductory problem](optart/optart.ipynb) (chapter 3) in the OptArt book.
 - The third project was a bit more serious (25 variables).
   I replicated chapter 4 of the OptArt book: [assign profs to courses](linassign/LinAssign.ipynb).
+- The fourth project uses linear programming to solve a [travelling salesman problem](tsp/tsp.ipynb).
+  Replication of chapter 6 of the OptArt book.
 
 (end)
